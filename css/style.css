@@ -1,0 +1,150 @@
+
+/*FIN-TODO*/
+.banner-top{
+    margin: 10px 0 0 0;
+    border-bottom: 1px solid grey;
+}
+    banner-top, h3{
+        padding-top: 5px;
+    }
+    .listgroup, ul{
+        text-align: right;
+    }
+    .lista-top{
+        display: inline-block;
+        list-style: none;
+        padding: 10px;
+        font-weight:500
+    }
+/*FIN-NAVBAR*/
+.fondo-titulo{
+    background-image: url(../img/img-1.jpg);
+}
+.titulo{
+background-image: linear-gradient(180deg,rgba(58,52,226,0.93) 0%,rgba(73,108,220,0.7) 100%);
+background-color: rgba(255,255,255,0);
+height: 500px;
+text-align: center;
+color: white;
+    }
+    .titulo h1{
+    padding-top: 20%;
+    }
+    .titulo p{
+    margin: 0 10%;
+    }
+    .titulo .boton{
+        background-color: #8EC94A;
+        color: white;
+        border-radius: none;
+        width: 130px;
+        height: 35px;
+        margin-top: 2%;
+        border:none;
+        font-size: 14px;
+    }
+/*FIN-TITULO*/
+div.card-deck{
+    text-align: center;
+    margin-top: 5%;
+}
+    .card-deck i{
+        font-size: 50px;
+        color: #4E5ED0;
+    }
+    .card-deck .card{
+        border: none;
+    }
+    .card-deck .card-body p{
+        color: grey;
+    }
+/*FIN-CONTENT-1*/
+.content-2{
+    margin: 5% 0 5%;
+}
+    .content-2 img{
+        width: 100%;
+    }
+    .content-2 .col-lg-6{
+        padding: 0%;
+        text-align: left;
+    }
+    .content-2 hr{
+        height: 1.2%;
+        background-color: #4E5ED0;
+        width: 20%;
+        margin: 2%;
+        border: none;
+    }
+    .content-2 h2{
+        margin-left: 2%;
+        margin-top: 10%;
+    }
+    .content-2 p{
+        color: grey;
+        margin-left: 2%;
+    }
+    .content-2 .boton{
+        background-color: #8EC94A;
+        color: white;
+        border-radius: none;
+        width: 30%;
+        height: 10%;
+        margin-top: 2%;
+        border:none;
+        font-size: 14px;
+        margin-left: 2%;
+    }
+/*FIN-CONTENT-2*/
+.content-3{
+    text-align: center;
+    background-color:#4E5ED0; 
+    color:white;
+    height: 27em;
+}
+    .content-3 hr{
+            height: 1.2%;
+            background-color: white;
+            width: 10%;
+            margin: 2% auto;
+            border: none;
+        }
+    .content-3 input{
+        width: 40%;
+        text-align: center;
+        border-radius: none;
+        margin: 0 auto;
+    }
+    .content-3 .btn{
+        background-color: #8EC94A;
+        color: white;
+        border-radius: none;
+        width: 130px;
+        height: 35px;
+        margin-top: 2%;
+        border: none;
+        font-size: 14px;
+    }
+/*FIN-CONTENT-3*/
+.content-4 p{
+    margin: 0px auto;
+}
+/*FIN-CONTENT-4*/
+.bottom-pag{
+    background-color: black;
+    color: grey;
+    min-height:  60px;
+    padding: 20px 0 0;
+    text-align: center;
+}
+.bottom-pag p{
+    margin-top: 0.8%;
+}
+.bottom-pag i{
+    font-size: 35px;
+    padding: 0 10px 20px;
+}
+.bottom-pag a{
+    color: grey;
+}
+/*FIN-BOTTOM-PAG*/
